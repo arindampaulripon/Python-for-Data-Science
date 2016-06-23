@@ -1,0 +1,4 @@
+{
+  "test_kmeanspp.py::test_length": true, 
+  "test_weights.py::test_sum_to_one": true
+}
